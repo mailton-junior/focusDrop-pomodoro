@@ -6,3 +6,7 @@
 .content {
   margin: 3.2rem;
 }
+
+.container-fluid {
+  max-width: auto;
+}
